@@ -1,0 +1,11 @@
+# =====================================
+# 转转大师 VIP 解锁 - Loon 订阅版
+# 更新日期：2025-02-22
+# 作者：Sheepfj（原作者），Loon 转换：ChatGPT
+# =====================================
+
+[Rewrite]
+^https:\/\/wxappzzds\.55\.la/api/wxapp/my script-response-body https://你的域名/zhuanzhuandashi.js
+
+[MITM]
+hostname = wxappzzds.55.la
